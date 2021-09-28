@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shipping-app/static/css/main.11b170fb.chunk.css",
+    "main.js": "/shipping-app/static/js/main.3f3ace6f.chunk.js",
+    "main.js.map": "/shipping-app/static/js/main.3f3ace6f.chunk.js.map",
+    "runtime-main.js": "/shipping-app/static/js/runtime-main.80172694.js",
+    "runtime-main.js.map": "/shipping-app/static/js/runtime-main.80172694.js.map",
+    "static/js/2.5f2e53a5.chunk.js": "/shipping-app/static/js/2.5f2e53a5.chunk.js",
+    "static/js/2.5f2e53a5.chunk.js.map": "/shipping-app/static/js/2.5f2e53a5.chunk.js.map",
+    "index.html": "/shipping-app/index.html",
+    "static/css/main.11b170fb.chunk.css.map": "/shipping-app/static/css/main.11b170fb.chunk.css.map",
+    "static/js/2.5f2e53a5.chunk.js.LICENSE.txt": "/shipping-app/static/js/2.5f2e53a5.chunk.js.LICENSE.txt",
+    "static/media/dashboard.css": "/shipping-app/static/media/uspslogo.9310212b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80172694.js",
+    "static/js/2.5f2e53a5.chunk.js",
+    "static/css/main.11b170fb.chunk.css",
+    "static/js/main.3f3ace6f.chunk.js"
+  ]
+}
